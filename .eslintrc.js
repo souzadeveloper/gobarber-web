@@ -22,7 +22,7 @@ module.exports = {
     ecmaVersion: 2018,
     sourceType: "module"
   },
-  plugins: ["react", "jsx-a11y", "import", "react-hooks", "prettier", "prefer-object-spread"],
+  plugins: ["react", "jsx-a11y", "import", "react-hooks", "prettier"],
   rules: {
     "prettier/prettier": "error",
     "react/jsx-filename-extension": [
